@@ -1,0 +1,6 @@
+Testing Algorithms for an array size: 500
+Quick1 finished in: 0.003 sec.
+Quick2 finished in: 0.001 sec.
+Quick3 finished in: 0.001 sec.
+Insertion finished in: 0.0 sec.
+Quick finished in: 0.001 sec.
